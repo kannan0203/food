@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Double beef burger",
+        "price" : "$200",
+        "image":"f8e8bf07-6f7d-4ceb-8f3e-06d506fe89ce-removebg-preview.png"
+    },
+    {
+        "id":2,
+        "name":"Double beef burger",
+        "price" : "$200",
+        "image":"f8e8bf07-6f7d-4ceb-8f3e-06d506fe89ce-removebg-preview.png"
+    },
+    {
+        "id":3,
+        "name":"Double beef burger",
+        "price" : "$200",
+        "image":"f8e8bf07-6f7d-4ceb-8f3e-06d506fe89ce-removebg-preview.png"
+    },
+    {
+        "id":4,
+        "name":"Double beef burger",
+        "price" : "$200",
+        "image":"f8e8bf07-6f7d-4ceb-8f3e-06d506fe89ce-removebg-preview.png"
+    },
+    {
+        "id":5,
+        "name":"Double beef burger",
+        "price" : "$200",
+        "image":"f8e8bf07-6f7d-4ceb-8f3e-06d506fe89ce-removebg-preview.png"
+    },
+    {
+        "id":6,
+        "name":"Double beef burger",
+        "price" : "$200",
+        "image":"f8e8bf07-6f7d-4ceb-8f3e-06d506fe89ce-removebg-preview.png"
+    },
+    {
+        "id":7,
+        "name":"Double beef burger",
+        "price" : "$200",
+        "image":"f8e8bf07-6f7d-4ceb-8f3e-06d506fe89ce-removebg-preview.png"
+    },
+    {
+        "id":8,
+        "name":"Double beef burger",
+        "price" : "$200",
+        "image":"f8e8bf07-6f7d-4ceb-8f3e-06d506fe89ce-removebg-preview.png"
+    }
+]
